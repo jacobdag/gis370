@@ -1,8 +1,0 @@
-{
-"type": "FeatureCollection",
-"name": "exam_nyroute",
-"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
-"features": [
-{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "MultiLineString", "coordinates": [ [ [ -73.982168591010634, 40.76763401765578 ], [ -73.987471893012426, 40.760365862922349 ], [ -73.98179770286599, 40.758015725956028 ] ] ] } }
-]
-}
